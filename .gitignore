@@ -1,0 +1,36 @@
+full_test.py
+
+backend/todo_app.db
+simple_test.py
+test_api.py
+
+# Environment files
+backend/.env
+frontend/.env.local
+.env
+.env.*
+test_db.py
+todo_app.db
+initialize_db.py
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Databases
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
